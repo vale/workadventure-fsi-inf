@@ -7,3 +7,4 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 
 # TileSets
  - patterns: https://opengameart.org/content/patterns-and-cursors-ii
+ - floor: https://opengameart.org/content/30x30-tilesets
